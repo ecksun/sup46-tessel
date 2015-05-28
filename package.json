@@ -1,0 +1,14 @@
+{
+  "name": "scypho-tessel",
+  "version": "0.0.0",
+  "description": "tessel hackathon thingie",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scypho",
+  "license": " ",
+  "dependencies": {
+    "tessel": "^0.3.23"
+  }
+}
