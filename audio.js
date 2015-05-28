@@ -9,7 +9,6 @@ var audio = require('audio-vs1053b').use(tessel.port['A']);
 
 var audioFile = 'sample.mp3';
 
-var 
 // Wait for the module to connect
 audio.on('ready', function() {
   console.log("Audio module connected! Setting volume...");
