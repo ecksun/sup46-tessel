@@ -9,6 +9,8 @@
   "author": "scypho",
   "license": " ",
   "dependencies": {
+    "servo-pca9685": "^0.1.3",
+    "restify": "^3.0.3",
     "tessel": "^0.3.23"
   }
 }
